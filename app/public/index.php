@@ -2,6 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-// phpinfo();
+$pdo = new PDO('sqlite:db.sqlite')
 
-echo "Hello World Pika das Galáxias!"
+phpinfo();
+
