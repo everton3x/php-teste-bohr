@@ -2,4 +2,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-phpinfo();
+// phpinfo();
+
+echo "Hello World Pika das Galáxias!"
